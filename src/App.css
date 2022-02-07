@@ -1,0 +1,28 @@
+/* body {
+	display: flex;
+	flex-direction: row;
+	gap: 20px;
+}
+.column {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 20px;
+	border: solid;
+	width: 30vw;
+	height: 40vh;
+}
+.info {
+	display: flex;
+	flex-direction: column;
+	font-size: 10px;
+	gap: 20px;
+}
+button {
+	height: 5vh;
+	width: 7vw;
+	font-size: 10px;
+} */
+body {
+	display: flex;
+	flex-direction: row;
+}
